@@ -183,3 +183,21 @@ Best for GUI.
 
 ## Loops and Conditions
 
+|Operator|Description|
+|-----|-----|
+| -gt | Greater Than |
+| -lt  | Less Than |
+| -ne | Not Equal To |
+
+`10 -gt 2` - True
+
+`10 -lt 2` - False
+
+`"Hello World".contains("Hello")` - True
+
+`"Hello World" -like "H*"` - True
+
+<!-- for(int;condition;repetition){} -->
+
+
+
